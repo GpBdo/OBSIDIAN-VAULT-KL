@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "f120b54788658243",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cdf0021f9b70c1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56a7dde3b2f851db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PINGAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PINGAS"
+            }
+          },
+          {
+            "id": "56f0a2950d0a846b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/LINEAR ALGEBRA/SPAN AND INDEPENDENCE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SPAN AND INDEPENDENCE"
+            }
+          },
+          {
+            "id": "10cf00568a674839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/LINEAR ALGEBRA/FUNDAMENTS OF LINEAR ALGEBRA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FUNDAMENTS OF LINEAR ALGEBRA"
+            }
+          },
+          {
+            "id": "4f3fa22ec3cfeb81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH/LINEAR ALGEBRA/VECTORIAL SPACES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VECTORIAL SPACES"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b642edff36115f85",
+    "type": "split",
+    "children": [
+      {
+        "id": "08d310ce9037e31b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45995dc57a93872b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e39ae08a8a91b5ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "90ef3b5f34967ab3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "86293e015b8f0747",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfa6482ce9a3c5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6efa6b7d2e170d7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FÍSICA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for FÍSICA"
+            }
+          },
+          {
+            "id": "8f75e41d57b5853b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FÍSICA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from FÍSICA"
+            }
+          },
+          {
+            "id": "2fca415067c57842",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "06c3c03616c8444a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "85ecbe4e2e1b8247",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FÍSICA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of FÍSICA"
+            }
+          },
+          {
+            "id": "54593c4ce8998652",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "MATH/LINEAR ALGEBRA/FUNDAMENTS OF LINEAR ALGEBRA.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "10cf00568a674839",
+  "lastOpenFiles": [
+    "MATH/LINEAR ALGEBRA/VECTORIAL SPACES.md",
+    "MATH/LINEAR ALGEBRA/SPAN AND INDEPENDENCE.md",
+    "MATH/LINEAR ALGEBRA/FUNDAMENTS OF LINEAR ALGEBRA.md",
+    "MATH/LINEAR ALGEBRA/POLYNOMIALS.md",
+    "MATH/LINEAR ALGEBRA/LINEAR ALGEBRA.md",
+    "PINGAS.md",
+    "FÍSICA/MECÁNICA CLÁSICA/DINÁMICA.md",
+    "Pasted image 20260816154324.png",
+    "FÍSICA/MECÁNICA CLÁSICA/MOVIMIENTO ARMÓNICO SIMPLE.md",
+    "MATH/INTEGRAL CALCULUS/FUNDAMENTAL THEOREM OF CALCULUS.md",
+    "MATH/VECTORIAL CALCULUS/DIFFERENTIABILITY.md",
+    "MATH/VECTORIAL CALCULUS/GRADIENT.md",
+    "MATH/VECTORIAL CALCULUS/DIFFERENTIATION.md",
+    "MATH/INTEGRAL CALCULUS/RIEMANN SUM.md",
+    "MATH/VECTORIAL CALCULUS/EXACT AND INEXACT DIFFERENTIALS.md",
+    "FÍSICA/MECÁNICA CLÁSICA/ENERGÍA Y TRABAJO MECÁNICO.md",
+    "MATH/INTEGRAL CALCULUS/ELEMENTAL FORMULAS OF INTEGRATION.md",
+    "MATH/INTEGRAL CALCULUS/INTEGRATION METHODS.md",
+    "FÍSICA/MECÁNICA CLÁSICA/ESTÁTICA.md",
+    "FÍSICA/MECÁNICA CLÁSICA/CINEMÁTICA/VELOCIDAD Y ACELERACIÓN ANGULAR.md",
+    "FÍSICA/MECÁNICA DE FLUIDOS/HIDROESTÁTICA.md",
+    "FÍSICA/MECÁNICA CLÁSICA/CINEMÁTICA/FÓRMULAS AUXILIARES.md",
+    "FÍSICA/MECÁNICA CLÁSICA/CINEMÁTICA/TIPOS DE MOVIMIENTO SEGÚN TRAYECTORIA.md",
+    "FÍSICA/MECÁNICA CLÁSICA/CINEMÁTICA/ACELERACIÓN.md",
+    "FÍSICA/MECÁNICA CLÁSICA/CINEMÁTICA/TRIEDRO DE FRENET-SERRET.md",
+    "FÍSICA/MECÁNICA CLÁSICA/CINEMÁTICA/POSICIÓN Y VELOCIDAD.md",
+    "MATH/INTEGRAL CALCULUS/IMPROPER INTEGRALS.md",
+    "FÍSICA/MECÁNICA CLÁSICA/CINEMÁTICA",
+    "MATH/LINEAR ALGEBRA",
+    "MATH/DIFFERENTIAL EQUATIONS",
+    "MATH/VECTORIAL CALCULUS",
+    "MATH/INTEGRAL CALCULUS",
+    "Pasted image 20260803173812.png",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Pasted image 20260721233623.png",
+    "MATH",
+    "FÍSICA/ELECTROMAGNETISMO",
+    "FÍSICA/TERMODINÁMICA",
+    "FÍSICA/MECÁNICA DE FLUIDOS",
+    "Pasted image 20260720124901.png",
+    "Pasted image 20260718195933.png"
+  ]
+}
