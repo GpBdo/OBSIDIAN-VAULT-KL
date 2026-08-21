@@ -21,3 +21,11 @@ Some vector $v_i\in V$ are considered linearly dependent if they are not linearl
 ## Linear dependence lemma:
 Let some linear dependent vectors $v_i\in V$. Then:
 $$\exists k\in\lbrace1,2,\ldots,m\rbrace\mid v_k\in\mathrm{span}(v_1,\ldots,v_{k-1},v_{k+1},\ldots)$$
+---
+# Basis
+Is a list of vectors $v_k\in V$ if they are linearly independent and spans $V$.
+**Consequences:**
+- All vector $v\in V$ can be expressed by only choice of coefficients $a_i\in\mathbb F$
+$$v=a_1v_1+a_2v_2+\ldots+v_ma_m,\quad\forall v\in V$$
+- Some vectors $v_k\in V$ that spans a vectorial space $V$ contains the basis of $V$.
+- A finite-dimensional vectorial space $V$ has a basis.
