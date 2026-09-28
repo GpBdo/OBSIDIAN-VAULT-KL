@@ -1,0 +1,1 @@
+Let an unitary ring $\mathcal R$, then a tensor $T$ of order $k$ is a function $T:\lbrace1,\ldots,n_1\rbrace\times\ldots\times\lbrace1,\ldots,n_k\rbrace\to\mathcal R$, where $k\in\mathbb Z^+$ and the element $T(i_1,\ldots,i_k)=(T)_{i_1,\ldots,i_k}\in\mathcal R$ 

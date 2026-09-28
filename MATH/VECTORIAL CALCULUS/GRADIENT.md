@@ -1,6 +1,14 @@
 **Definition**
 Let a function $f:D\subseteq\mathbb{R}^n\to\mathbb{R}$, then the gradient of the function $f$ is:
-$$\mathrm{grad}(f)=\nabla f(x_1,x_2,\ldots,x_n)=\left(\frac{\partial f}{\partial x_1},\frac{\partial f}{\partial x_2},\ldots,\frac{\partial f}{\partial x_n}\right)$$
+$$\begin{equation}
+\mathrm{grad}(f)=\nabla f(x_1,x_2,\ldots,x_n)=\begin{bmatrix}
+\dfrac{\partial f}{\partial x_1}\\
+\dfrac{\partial f}{\partial x_2}\\
+\vdots\\
+\dfrac{\partial f}{\partial x_n}
+\end{bmatrix}
+\end{equation}
+$$
 **Interpretation**
 The gradient of the function $f$ at a point $a$ is a vector pointing in the direction of maximum increase of the function near $a$.
 

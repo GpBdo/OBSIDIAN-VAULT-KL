@@ -1,11 +1,12 @@
-# Limits
+# Limit
 Let a function $f:D\subseteq\mathbb{R}^n\to\mathbb{R}^m$ then:
 $$\begin{align*}
 \lim_{x\to c}f(x)=L \iff &\forall\epsilon\in\mathbb{R},\epsilon>0,\exists\delta\in\mathbb{R},\delta>0\mid\forall x\in D,\\
 &0<\lVert x-c\rVert<\delta\rightarrow\lVert f(x)-L\rVert<\epsilon
 \end{align*}$$
-## Continuity
-Let a function $f:D\subseteq\mathbb{R}^n\to\mathbb{R}^m$. So:
+---
+# Continuity
+Let a function $f:D\subseteq\mathbb{R}^n\to\mathbb{R}^m$, then:
 $$f\text{ is continuous on }c\iff c\in D \,\land \lim_{x\to c}f(x)=f(c)$$
 # Partial Derivatives
 Let a function $f:D\subseteq\mathbb{R}^n\to\mathbb{R}^m$ continuous on $a$, then:

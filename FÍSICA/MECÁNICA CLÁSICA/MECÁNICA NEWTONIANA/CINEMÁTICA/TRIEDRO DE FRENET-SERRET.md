@@ -23,3 +23,14 @@ $$\frac{1}{\rho}=\kappa=\left\lVert\frac{\mathrm{d}\hat{T}}{\mathrm{d}s}\right\r
 # Vector de Darboux $(\vec\omega)$ 
 Indica el eje de rotación y rapidez con la que rota el triedro de Frenet-Serret en conjunto.
 $$\vec\omega=\tau\hat T+\kappa\hat B$$
+---
+# Planos fundamentales
+## Plano osculador
+Es el plano que contiene al vector tangente unitario $(\hat T)$ y el vector normal unitario $(\hat N)$, su ecuación cuando $\vec r$ toma cierto valor es:
+$$(\vec a-\vec r)\cdot\hat B=0$$
+## Plano normal
+Es el plano que es perpendicular al vector tangente unitario $(\hat T)$, su ecuación cuando $\vec r$ toma cierto valor es:
+$$(\vec a-\vec r)\cdot\hat T=0$$
+## Plano rectificador
+Es el plano que es perpendicular al vector normal unitario $(\hat N)$, su ecuación cuando $\vec r$ toma cierto valor es:
+$$(\vec a-\vec r)\cdot\hat N=0$$

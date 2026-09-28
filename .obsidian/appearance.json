@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Obsidian gruvbox",
   "theme": "obsidian",
   "baseFontSizeAction": true,
-  "baseFontSize": 18,
+  "baseFontSize": 21,
   "textFontFamily": "Cambria Math"
 }

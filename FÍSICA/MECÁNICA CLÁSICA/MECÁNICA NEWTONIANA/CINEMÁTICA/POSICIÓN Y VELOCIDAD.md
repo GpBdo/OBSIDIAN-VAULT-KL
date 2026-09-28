@@ -3,7 +3,7 @@ Indica la posición de una partícula respecto al origen de coordenadas de un si
 $$\vec{r}=\overrightarrow{OP}$$
 **Donde:**
 - $O$: Origen del sistema de referencia.
-- $P$: Posición de la partícula.
+- $P$: Punto relativo a $O$ de la ubicación de la partícula.
 # Desplazamiento $(\vec{d})$
 Indica la diferencia entre la posición final e inicial en un intervalo de tiempo.
 $$\vec{d}=\vec{r}_f-\vec{r}_0$$

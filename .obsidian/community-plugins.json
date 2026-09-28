@@ -1,4 +1,6 @@
 [
   "latex-autocomplete-customizable",
-  "github-sync"
+  "github-sync",
+  "obsidian-tikzjax",
+  "obsidian-excalidraw-plugin"
 ]

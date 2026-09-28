@@ -14,13 +14,15 @@ A vector space $V$ is infinite-dimensional if it isn't finite-dimensional
 # Linearly Independent
 Some vectors $v_i\in V$ are considered linearly independent if there is a only choice of coefficients $a_i\in\mathbb F$ to get other vector $(w)$ through  linear combination.
 $$a_1v_1+a_2v_2+\ldots+a_mv_m=w$$
-**Consequence:**
-$$a_1v_1+a_2v_2+\ldots+a_mv_m=0\implies a_1=a_2=\ldots=a_m=0$$
+**Consequences:**
+- $a_1v_1+a_2v_2+\ldots+a_mv_m=0\implies a_1=a_2=\ldots=a_m=0$
+- The length of a linearly independent vectors $\leq$ The length of a vectors that spans a vectorial space. 
 # Linearly dependent
 Some vector $v_i\in V$ are considered linearly dependent if they are not linearly independent.
 ## Linear dependence lemma:
 Let some linear dependent vectors $v_i\in V$. Then:
 $$\exists k\in\lbrace1,2,\ldots,m\rbrace\mid v_k\in\mathrm{span}(v_1,\ldots,v_{k-1},v_{k+1},\ldots)$$
+
 ---
 # Basis
 Is a list of vectors $v_k\in V$ if they are linearly independent and spans $V$.
@@ -29,3 +31,6 @@ Is a list of vectors $v_k\in V$ if they are linearly independent and spans $V$.
 $$v=a_1v_1+a_2v_2+\ldots+v_ma_m,\quad\forall v\in V$$
 - Some vectors $v_k\in V$ that spans a vectorial space $V$ contains the basis of $V$.
 - A finite-dimensional vectorial space $V$ has a basis.
+- Some linearly independent vectors $v_k\in V$ can be expanded to a basis of $V$.
+- Let a finite-dimensional vectorial space $V$ and subspace $U$ of $V$, then exists a subspace $W$, such that:
+$$V=U\oplus W$$

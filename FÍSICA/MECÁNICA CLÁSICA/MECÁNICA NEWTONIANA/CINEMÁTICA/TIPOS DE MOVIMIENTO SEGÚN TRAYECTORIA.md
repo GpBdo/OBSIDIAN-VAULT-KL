@@ -5,7 +5,12 @@
 ### Movimiento Rectilíneo Uniformemente Variado
 **Condiciones:**
 - La aceleración es constante: $\dfrac{\mathrm{d}\vec{a}}{\mathrm{d}t}=0$
-- La trayectoria es una línea recta: $\dfrac{\mathrm{d}\hat{T}}{\mathrm{d}t}=0$
+- La trayectoria es una línea recta: $\kappa=0$
+### Movimiento Rectilíneo General
+**Condiciones:**
+- La aceleración no es constante: $\dfrac{\mathrm d\vec a}{\mathrm dt}\not\equiv0$
+- La trayectoria es una línea recta: $\kappa=0$
+
 ---
 ## Movimiento Curvilíneo
 ### Movimiento Circular Uniforme
@@ -20,7 +25,6 @@
 **Condiciones:**
 -     La aceleración y la velocidad inicial no son paralelos: $\vec{a}\times\vec{v}_0\neq0$
 -     La aceleración es constante:$\dfrac{\mathrm{d}\vec{a}}{\mathrm{d}t}=0$
-
 **Consecuencias:**
 -       La trayectoria se encuentra en un plano.
 -       El movimiento de cada dimensión es independiente.

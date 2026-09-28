@@ -10,3 +10,7 @@ If at least one of the three cases are met, then the integral has elementary fun
 - **Case 2:** $\frac{m+1}{n}\in\mathbb Z$ 
 - **Case 3:** $\frac{m+1}{n}+p\in\mathbb Z$
 ## Glasser's Master theorem
+
+---
+$$\int \arctan(f(x))\,\mathrm dx$$
+- We recommend express $f(x)$ in $\tan(g(x))$
