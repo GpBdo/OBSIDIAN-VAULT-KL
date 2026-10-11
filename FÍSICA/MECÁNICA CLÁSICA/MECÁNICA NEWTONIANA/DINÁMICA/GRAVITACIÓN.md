@@ -1,5 +1,5 @@
 # Fuerza de gravedad
-Es una fuerza generada por dos cuerpos con masa, la cual atrae a ambos cuerpos entre sí. 
+Es una fuerza generada por dos cuerpos con masa, la cual atrae a ambos cuerpos entre sí. Esta fuerza es conservativa.
 ## Ley de la gravitación universal
 Sea dos cuerpos $a$ y $b$ con masas $M_a$ y $M_b$, entonces la fuerza de gravedad generada del cuerpo $a$ hacia el cuerpo $b$ es:
 $$\vec F_{b,a}=-G\frac{M_aM_b}{r^2}\hat r_{b,a}$$

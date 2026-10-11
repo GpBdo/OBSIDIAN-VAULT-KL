@@ -15,8 +15,11 @@ $$\vec\tau_{res}=\sum_i\vec\tau_i$$
 
 ---
 ## Impulso $(\vec{J})$
-Indica el efecto de una fuerza al cambiar la cantidad de movimiento de un cuerpo durante un intervalo de tiempo.
-$$\vec{J}=\int^{t_f}_{t_0}\vec{F}\,\mathrm{d}t$$
+Indica el efecto temporal de una fuerza al cambiar el momento lineal de un cuerpo durante un intervalo de tiempo:
+$$\vec J^{\vec F}=\int^{t_f}_{t_0}\vec{F}\,\mathrm{d}t$$
 ## Fuerza promedio $(\vec{F}_{prom})$
 Es la fuerza que realiza el cambio promedio de la cantidad de movimiento de un cuerpo durante un intervalo de tiempo.
 $$\vec{F}_{prom}=\frac{\vec{J}}{\Delta{t}}$$
+## Impulso angular
+Indica el efecto temporal del torque al cambiar el momento angular de un cuerpo durante un intervalo de tiempo:
+$$\vec H^{\vec\tau}=\int^{t_f}_{t_0}\vec\tau\,\mathrm dt$$
